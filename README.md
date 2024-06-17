@@ -1,4 +1,4 @@
-### **Ingénieur en Informatique avec une Solide Base Technique et une Expérience en Développement Web**
+## **Ingénieur en Informatique avec une Solide Base Technique et une Expérience en Développement Web**
 
 Ingénieur en Informatique avec plus de 13 ans d'expérience en développement web et un parcours confirmé en tant que Lead PHP Developer. Mon parcours comprend la gestion d'équipes et la livraison de solutions technologiques avancées qui ont optimisé l'efficacité opérationnelle et aligné les développements avec les besoins stratégiques de l'entreprise. Je cherche à apporter cette combinaison unique de compétences techniques et de gestion de produits à un rôle de Product Owner, pour guider la vision et le développement de produits innovants.
 
