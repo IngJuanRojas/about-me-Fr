@@ -27,4 +27,4 @@ Mon objectif est de contribuer à la création de produits digitaux exceptionnel
 
 - **Téléphone** : +33 7 69 93 45 79
 - **Email** : [juanrojas57@gmail.com](mailto:juanrojas57@gmail.com)
-- **LinkedIn** : [linkedin.com/in/juanrojas](https://www.linkedin.com/in/ingjuanrojas)
+- **LinkedIn** : [linkedin.com/in/ingjuanrojas](https://www.linkedin.com/in/ingjuanrojas)
