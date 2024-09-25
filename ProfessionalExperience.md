@@ -4,7 +4,7 @@
 
 Cette section fournit un résumé détaillé de mon expérience professionnelle, mettant en évidence mes rôles dans le développement web et la gestion de produits. Ci-dessous, mes responsabilités, réalisations quantifiables et compétences pertinentes pour chaque poste sont décrites.
 
-## **Lead PHP Developer**
+## **Lead Developer / Scrum Master**
 **Fidens By TVH**  
 *Septembre 2022 - Présent*
 
